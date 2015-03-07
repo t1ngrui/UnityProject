@@ -1,14 +1,16 @@
-using System;
+using UnityEngine;
+using System.Collections;
 
-namespace hehe
-{
-    class bitch()
-    {
-        public void write()
-        {
-            Console.WriteLine("Do that");  
-        }
-      
-    }
-
+public class eventX : MonoBehaviour {
+    //建议在“场景名” 
+    
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+	}
 }
