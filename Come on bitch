@@ -1,0 +1,10 @@
+using System;
+
+namespace hehe
+{
+    class bitch()
+    {
+      Console.System("Do that");  
+    }
+
+}
