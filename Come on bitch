@@ -4,7 +4,11 @@ namespace hehe
 {
     class bitch()
     {
-      Console.System("Do that");  
+        public void write()
+        {
+            Console.System("Do that");  
+        }
+      
     }
 
 }
