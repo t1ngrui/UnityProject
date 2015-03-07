@@ -6,7 +6,7 @@ namespace hehe
     {
         public void write()
         {
-            Console.System("Do that");  
+            Console.WriteLine("Do that");  
         }
       
     }
